@@ -1,10 +1,16 @@
 # Homework1SoftwareEngineering
+
 Title: C346 Homework1
+
 Author: Hung Nguyen
+
 Due Date: 8/31/2018
+
 Description: Implementation of a LinkedList usign the provided LinkedList interface.
 
+
 Some functions are:
+
 _ Get the next node
 
 _ Get the last node
